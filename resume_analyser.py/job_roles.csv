@@ -1,0 +1,6 @@
+role_title,category,required_skills,role_description
+Data Analyst,Data,"python, sql, excel, pandas, power bi, data visualization, statistics","Analyze structured data, build dashboards using Power BI and Excel, write complex SQL queries, and perform exploratory data analysis with Python and Pandas."
+Machine Learning Engineer,AI/ML,"python, machine learning, scikit-learn, fastapi, docker, pandas, numpy, git","Design, train, and deploy machine learning models. Build inference APIs using FastAPI, containerize applications with Docker, and evaluate predictive pipelines."
+AI Engineer,AI/ML,"python, deep learning, pytorch, transformers, llm, rag, api, langchain","Develop generative AI applications using Large Language Models, build Retrieval-Augmented Generation (RAG) pipelines, and integrate neural networks using PyTorch."
+Computer Vision Engineer,AI/ML,"python, opencv, cnn, yolo, pytorch, image processing, deep learning","Develop computer vision systems for object detection, image classification, and segmentation using OpenCV, YOLO architectures, and CNN models in PyTorch."
+Backend Developer,Engineering,"python, fastapi, sql, postgresql, docker, rest api, git, redis","Design scalable backend services, build RESTful APIs using FastAPI, manage relational databases like PostgreSQL, and handle caching with Redis."

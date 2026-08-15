@@ -1,0 +1,25 @@
+skill_name,category
+python,Programming Languages
+c++,Programming Languages
+c#,Programming Languages
+java,Programming Languages
+sql,Databases
+postgresql,Databases
+mongodb,Databases
+redis,Databases
+pandas,Data Science & Analytics
+numpy,Data Science & Analytics
+scikit-learn,Machine Learning
+pytorch,Machine Learning
+tensorflow,Machine Learning
+opencv,Computer Vision
+yolo,Computer Vision
+transformers,NLP / GenAI
+langchain,NLP / GenAI
+llm,NLP / GenAI
+rag,NLP / GenAI
+fastapi,Web & APIs
+docker,DevOps & Cloud
+git,DevOps & Cloud
+excel,Data Science & Analytics
+power bi,Data Science & Analytics
